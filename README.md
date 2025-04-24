@@ -1,58 +1,97 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<!-- PROFILE README - Advanced & Fascinating -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Passionate+about+tech+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00ffff;">Utkarsh Pandey</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | 🌐 Tech Explorer | 💡 Lifelong Learner</h3>
 
----
-
-- 🔭 I’m currently working on:  
-  🚨 **Nirbhaya** – A women’s safety app with SOS, real-time location & voice recording  
-  ♻️ **Kind Connect** – Waste collection app for eco-friendly cities  
-
-- 🌱 I’m currently learning:  
-  `TypeScript`, `Docker`, `CI/CD`, and deeper backend optimisations
-
-- 💬 Ask me about:  
-  `MERN Stack`, `REST APIs`, `Web Apps`, `MongoDB Aggregation`, `Authentication`
-
-- 📫 How to reach me:  
-  [your.email@example.com] | [LinkedIn](https://linkedin.com/in/your-profile)
-
-- ⚡ Fun fact:  
-  I started coding because I wanted to build my own game 😄
-
----
-
-### 🛠️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
----
-
-### 📊 GitHub Stats:
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Inspire.;MERN%20Stack%20Developer%20👨‍💻;Open%20Source%20Lover%20❤️;Let%27s%20Build%20Cool%20Stuff%20🚀;&center=true&width=500&height=50" />
 </div>
 
 ---
 
-### 🔗 Let's Connect!
+## 👨‍💻 About Me
+
+- 🔭 Currently working on:
+  - 🚨 **Nirbhaya** – Real-time SOS and safety app for women
+  - 🤝 **Kind Connect** – Eco-waste collection using location services
+
+- 🌱 Learning:
+  - Advanced MongoDB patterns
+  - DevOps: Docker
+  - Language - Python
+  - TypeScript 💙
+
+- 🎯 Goals for 2025:
+  - Complete Learning of Full Stack Development 🧠
+  - Launch a SaaS product 🚀
+  - Create at least 25 Projects 🎤
+
+---
+
+## 🧠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-P-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-P-07&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Utkarsh-P-07&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧑‍💼 Work & Projects Showcase
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| **Nirbhaya** | MERN | Real-time tracking, audio recording, SOS |
+| **Kind Connect** | MERN | Waste collection system with geolocation  |
+| **Sales Predictor** | JS, HTML, CSS | Tracking sales, predicting future growth |
+
+---
+
+## 🎨 My Favourite Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-purple?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/API-Postman-orange?logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:xfutkarshpandey@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/utkarshp07"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/UtkarshPandey_07/"><img src="https://img.shields.io/badge/LeetCode-%23000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh-P-07&label=Profile+Views&color=blue&style=flat" />
 </p>
